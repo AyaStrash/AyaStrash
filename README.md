@@ -9,7 +9,7 @@
 - инструменты: Python, Pandas, Matplotlib, Scikit-learn, NumPy, Keras, SQL, SQLAlchemy, Seaborn, бутсреп, lightgbm, statsmodels, BERT, tf-idf, nltk, NLP,  istogram, boxplot, scattermatrix,scatterplot.
 - 💞️ Интересует частичная занятость, проектная работа. Работа с гибким графиком и удаленно.
 - 📫 Для связи: arochka@gmail.com — предпочитаемый способ связи, https://t.me/aya131
-
+- Репозиторий: https://github.com/AyaStrash/Portfolio
 
 
 <!---
